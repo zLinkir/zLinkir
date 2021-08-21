@@ -1,4 +1,4 @@
-## Bem vindo ao meu GitHUb 😉
+## Bem vindo ao meu GitHUb :)
 
  <div>
   <a href="https://github.com/zLinkir">
