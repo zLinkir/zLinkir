@@ -22,7 +22,8 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/luiz-miguel-poteriko-santiago-5732171a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://api.whatsapp.com/send?phone=5547992300802" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+ <a href="https://api.whatsapp.com/send?phone=5547992300802" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white
+
 "></a>
  
   
